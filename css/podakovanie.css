@@ -1,4 +1,20 @@
-.volunteers h2 {
+.volunteers {
     margin-right: 1%;
     margin-left: 1%;
+}
+
+.partners {
+    margin-right: 1%;
+    margin-left: 1%;
+}
+h1 {
+    text-align: center;
+    justify-content: center;
+}
+
+h2 {
+    background: lightblue;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
 }
