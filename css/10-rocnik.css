@@ -1,0 +1,48 @@
+h1 {
+    color: green;
+    text-align: center;
+    justify-content: center;
+}
+
+h2 {
+    text-align: center;
+    justify-content: center;
+}
+
+.bg-light h2 {
+    color: green;
+}
+
+.content a {
+    color: mediumseagreen;
+    text-decoration: underline;
+}
+
+.features {
+    padding: 1em;
+    text-align: start;
+}
+
+.content {
+    padding: 1em;
+    width: 80%;
+    height: auto;
+    border-radius: 21px 21px 0 0;
+}
+
+.outside {
+    width: auto;
+}
+
+.images {
+    padding: 1em;
+    justify-content: center;
+}
+
+.images img {
+    padding: 1em;
+}
+
+.bg-dark {
+    background-color: green !important;
+}
