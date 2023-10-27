@@ -9,3 +9,7 @@ p a {
     color: mediumseagreen;
     text-decoration: underline;
 }
+
+.description {
+    margin: 2%;
+}
